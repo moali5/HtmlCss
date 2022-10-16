@@ -1,0 +1,11 @@
+{
+    "cSpell.words": [
+        "herf"
+    ],
+    "css.completion.completePropertyWithSemicolon": false,
+    "css.completion.triggerPropertyValueCompletion": false,
+    "css.format.enable": false,
+    "css.format.newlineBetweenRules": false,
+    "css.format.newlineBetweenSelectors": false,
+    "css.format.preserveNewLines": false
+}
